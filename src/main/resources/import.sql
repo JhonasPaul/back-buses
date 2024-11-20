@@ -12,5 +12,13 @@ INSERT INTO marcas ( marca ) VALUES ('jeep');
 
 
 
-INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '08-2015', 'carrera',5,'654', 'b-5');
-INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '04-2019', 'ciudad',9,'003', 'b-9');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '08-2015', 'carrera',10,'654', 'b-5');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('inactivo', '04-2019', 'ciudad',9,'003', 'b-9');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '04-2019', 'publico',8,'938', 'b-8');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('inactivo', '04-2019', 'ciudad',7,'006', 'b-7');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '04-2019', 'trabajo',6,'001', 'b-6');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('inactivo', '04-2019', 'ciudad',5,'007', 'b-7');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '04-2019', 'carga',4,'009', 'b-1');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('inactivo', '04-2019', 'ciudad',3,'001', 'b-2');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('activo', '04-2019', 'carrera',2,'351', 'b-5');
+INSERT INTO buses (estado, fecha_creacion, caracteristicas, marca_id,   numero_bus, placa) VALUES ('inactivo', '04-2019', 'ciudad',1,'385', 'b-3');
